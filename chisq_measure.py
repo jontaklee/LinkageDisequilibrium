@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr 26 12:46:38 2020
-
 @author: jonathantaklee@gmail.com
 
 Test for linkage disequilibrium between all pairs of segregating loci in a cross
